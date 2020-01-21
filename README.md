@@ -1,6 +1,6 @@
 # Port Disruption Database
 
-This folder includes the dataset and figures used in the paper 'Port disruptions due to climate extremes: insights into port and network level resilience' submitted to the Journal of Transportation Research Part D: Transport and Environment'. 
+This folder includes the dataset and figures used in the paper 'Port disruptions due to climate extremes: insights into port and network level resilience' submitted to 'Transportation Research Part D: Transport and Environment'. 
 
 The file 'Port-disruption-database.xlsx contains the database which includes: 
 
