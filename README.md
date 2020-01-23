@@ -11,3 +11,4 @@ The file 'Port-disruption-database.xlsx contains the database which includes:
 -Severity: The severity indicates whether it has a 0-40% impact (1), 40-80% (2) or 80%-100% impact to the normal operations. Ports that do not show a significant impact or where it is hard to distinguish from the time series are given (0). 
 
 
+In addition, the folders per event contain the time series of vessel activity per port. This includes ports being affected and ports not being affected. 
